@@ -1,0 +1,12 @@
+.vs/
+.vs
+injector/Release
+injector/Release/
+injector/Debug
+injector/Debug/
+dll/Release
+dll/Release/
+dll/Debug
+dll/Debug/
+build
+build/
